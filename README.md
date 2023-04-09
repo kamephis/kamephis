@@ -33,7 +33,7 @@ In my past live I was also a graphics & webdesigner.
 ![Figma](https://img.shields.io/badge/figma-%234F5B93?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
 # Social
-[![LinkedIn](https://img.shields.io/badge/linkedin-%236064B7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/marlonboehland) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%236064B7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonboehland/) 
 [![instagram](https://img.shields.io/badge/instagram-%232D3E50.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kamephis) 
 
 
