@@ -30,7 +30,7 @@ In my past live I was also a graphics & webdesigner.
 
 # Design Stack:
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%232E8B57?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23E44D26?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/XD-%232D2D2D?style=for-the-badge&logo=adobe-xd&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/figma-%234F5B93?style=for-the-badge&logo=figma&logoColor=FFFFFF)
