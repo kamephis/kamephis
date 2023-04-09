@@ -2,7 +2,7 @@
 I'm a software developer based in Switzerland with a passion for building high-quality, scalable web applications. Originally from Germany, I've spent the past few years honing my skills and developing expertise in a variety of technologies, including PHP, mySQL, Magento 2, HTML, CSS and a bunch more.
 In my past live I was also a graphics & webdesigner.
 
-# Tech Stack:
+# Tech Stack
 ![PHP](https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Magento](https://img.shields.io/badge/magento-%23CB3837.svg?style=for-the-badge&logo=magento&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23404040.svg?style=for-the-badge&logo=symfony&logoColor=white)
@@ -28,7 +28,7 @@ In my past live I was also a graphics & webdesigner.
 ![Postman](https://img.shields.io/badge/postman-%23E44D26.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-%234F5B93.svg?style=for-the-badge&logo=insomnia&logoColor=%23FFFFFF)
 
-# Design Stack:
+# Design Stack
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%234F5B93?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23E44D26?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
