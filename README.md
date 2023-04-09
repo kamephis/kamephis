@@ -1,5 +1,5 @@
 # 🤠 Hello there,
-I'm a software developer based in Switzerland with a passion for building high-quality, scalable web applications. Originally from Germany, I've spent the past few years honing my skills and developing expertise in a variety of technologies, including PHP, mySQL, Magento 2, JavaScript, Python, Docker, HTML, CSS, and Symfony.
+I'm a software developer based in Switzerland with a passion for building high-quality, scalable web applications. Originally from Germany, I've spent the past few years honing my skills and developing expertise in a variety of technologies, including PHP, mySQL, Magento 2, HTML, CSS and a bunch more.
 In my past live I was also a graphics & webdesigner.
 
 # Tech Stack:
