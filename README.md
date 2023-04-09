@@ -29,7 +29,7 @@ In my past live I was also a graphics & webdesigner.
 ![Insomnia](https://img.shields.io/badge/insomnia-%234F5B93.svg?style=for-the-badge&logo=insomnia&logoColor=%23FFFFFF)
 
 # Design Stack:
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%232E8B57?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%234F5B93?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23E44D26?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/XD-%232D2D2D?style=for-the-badge&logo=adobe-xd&logoColor=FFFFFF)
