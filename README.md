@@ -24,6 +24,7 @@ In my past live I was also a graphics & webdesigner.
 ![REDIS](https://img.shields.io/badge/redis-%234F5B93.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![ELASTICSEARCH](https://img.shields.io/badge/elasticsearch-%23323330.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%232E8B57.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232D2D2D.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-%234F5B93.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23E44D26.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-%234F5B93.svg?style=for-the-badge&logo=insomnia&logoColor=%23FFFFFF)
